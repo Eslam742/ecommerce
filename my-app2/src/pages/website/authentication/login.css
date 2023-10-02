@@ -1,0 +1,11 @@
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.login form {
+    width: 23%;
+    box-shadow: 1px 1px 10px 1px #cbc9c9;
+}

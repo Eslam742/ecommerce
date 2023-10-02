@@ -1,0 +1,24 @@
+.create {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.btn {
+    outline: none;
+    border: none;
+    background-color: #86b7fe;
+    padding: 15px 20px;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.btn:hover {
+    border: 2px solid #86b7fe;
+    font-weight: bolder;
+    color: #86b7fe;
+    background-color: white;
+}
